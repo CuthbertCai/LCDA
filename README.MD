@@ -5,7 +5,7 @@ Guanyu Cai, Lianghua He
 Pytorch implementation of our method for domain adaptation on semantic segmentation.  
 
 ## Requirement
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 ## Data
 Please refer to [Seg_Uncertainty][2]
@@ -42,7 +42,12 @@ This repo is borrowed from
 
 ## Citation
 ```
-
+@article{cai2021unsupervised,
+  title={Unsupervised Adaptive Semantic Segmentation with Local Lipschitz Constraint},
+  author={Cai, Guanyu and He, Lianghua},
+  journal={arXiv preprint arXiv:2105.12939},
+  year={2021}
+}
 ```
 
 [1]:https://arxiv.org/pdf/2105.12939.pdf
